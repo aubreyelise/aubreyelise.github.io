@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            
+            body {
+                
+                font: italic 100% "georgia" ; 
+                text-align: center;
+                background-color: rgb(35, 129, 245);
+                color: rgb(250,250,250);
+            }
+            
+            img {
+                
+                width: 125px;
+                
+            }
+            
+            h3 {
+                
+                padding-bottom: 20px;
+                border-bottom: ridge;
+                border-color: rgb(255, 235, 20);
+            }
+            
+            .details {
+                
+                font-size: 20px;
+            }
+            
+            a {
+                
+                text-decoration: none;
+                color: rgb(255, 235, 20);
+            }
+            
+        </style>
+    </head>
+    <body>
+        
+        
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Graduation_hat.svg/1200px-Graduation_hat.svg.png">
+        <h1>You're invited to Aubrey's Graduation!</h1>
+        <h3>We're so excited to celebrate with you!</h3>
+       
+        <p class="details">Date: June 6, 2020</p>
+        <p class="details">Time: 8:30pm</p>
+        <p class="details">Dress: Semi-Formal</p>
+        <p class="details">Click here to RSVP: <a href="https://forms.gle/J6VCjrXrifsS9Mzi6">Register</a></p>
+        
+        
+        
+        
+    </body>
+</html>
